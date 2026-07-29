@@ -43,7 +43,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 ```
-<img width="257" height="108" alt="Screenshot 2026-07-29 202241" src="https://github.com/user-attachments/assets/0a11a7cd-48d2-4366-836f-3268decd393d" />
+<img width="356" height="172" alt="image" src="https://github.com/user-attachments/assets/fca89ff6-c000-4051-b064-03c7a823557f" />
 
 ```
 
@@ -51,14 +51,16 @@ cat < file1
 cat < file2
 ## OUTPUT
 ```
-<img width="312" height="122" alt="Screenshot 2026-07-29 202446" src="https://github.com/user-attachments/assets/7eecaeca-aa7b-4bd4-a006-cdd977f89a6e" />
+<img width="215" height="120" alt="image" src="https://github.com/user-attachments/assets/331b8f67-a358-47d9-ace2-e709471ecfc3" />
+
 ```
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
  ```
-<img width="365" height="52" alt="Screenshot 2026-07-29 202553" src="https://github.com/user-attachments/assets/5741e118-8151-412f-bd98-a787e0f39f0f" />
+<img width="326" height="55" alt="image" src="https://github.com/user-attachments/assets/2e1e2e5d-93d1-4fd4-823a-addb9245e922" />
+
 ```
 
 comm file1 file2
